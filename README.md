@@ -4,7 +4,7 @@
   <br/>
   Super lpkt! <a href="https://github.com/lollipopkit">Meet LPKT!</a>
   <br/>
-  🌱 Currently undergrad student in THUEE
+  🌱 Currently PhD candidate in CUHKSZ（BS in THUEE）
   <br/>
   😄 Pronouns: Choose what u want!
 </div>
